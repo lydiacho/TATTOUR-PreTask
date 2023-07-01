@@ -4,3 +4,11 @@
   text-align: center;
   width: 100vw;
 }
+
+#post_code {
+  width: 4rem;
+}
+
+.card {
+  padding: 0rem 10rem;
+}
