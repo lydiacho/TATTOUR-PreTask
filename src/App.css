@@ -4,3 +4,28 @@
   text-align: center;
   width: 100vw;
 }
+
+.swiper_container {
+  margin-top: 3rem;
+  padding: 0rem 15rem;
+}
+
+.one_card {
+  height: 10rem;
+  background-color: pink;
+  color:black;
+  border: 0.5rem solid rgb(255, 134, 154);
+}
+
+.swiper-pagination {
+  position: relative;
+  margin-top: 1rem;
+}
+
+.swiper-pagination-bullet.swiper-pagination-bullet-active {
+  background-color: pink;
+}
+
+.swpier-wrapper {
+  transition-timing-function: linear;
+}
