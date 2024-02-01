@@ -28,4 +28,11 @@
 
 .swpier-wrapper {
   transition-timing-function: linear;
+
+  #post_code {
+  width: 4rem;
+}
+
+.card {
+  padding: 0rem 10rem;
 }
