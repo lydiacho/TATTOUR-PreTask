@@ -5,7 +5,16 @@
   width: 100vw;
 }
 
-.swiper_container {
+.text_area {
+  margin: 5rem;
+  border: 1rem solid black;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+  .swiper_container {
   margin-top: 3rem;
   padding: 0rem 15rem;
 }
